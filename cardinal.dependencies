@@ -5,7 +5,7 @@
  },
  
   {
-   "repository": "proprietary_vendor_motorola_athene",
+   "repository": "vendor_motorola_athene",
    "target_path": "vendor/motorola"
   },
 
